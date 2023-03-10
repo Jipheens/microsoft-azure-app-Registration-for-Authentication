@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "appAuth", "appAuth.csproj", "{943AAF0C-F723-481B-80A1-A0F8C48373E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{943AAF0C-F723-481B-80A1-A0F8C48373E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{943AAF0C-F723-481B-80A1-A0F8C48373E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{943AAF0C-F723-481B-80A1-A0F8C48373E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{943AAF0C-F723-481B-80A1-A0F8C48373E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE821912-09F2-4C95-B0B7-499CE15E5815}
+	EndGlobalSection
+EndGlobal
